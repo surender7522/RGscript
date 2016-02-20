@@ -1,7 +1,5 @@
 # RGscript
 
-A useful script to prevent disturbance from facebook notifs during exams.
-
 Uses RSS Feed from Facebook url (Go to www.facebook.com/notifications and copy RSS url) and selectively displays important notifications every 15 minutes.
 
 Requires Newsbeuter, run the following commands:
